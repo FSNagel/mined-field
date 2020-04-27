@@ -5,6 +5,8 @@
 <p>Trabalho da matéria Organização Computacional. </p>
 <p>Professor Dr. Luciano Caimi.</p>
 
+<h3>Desenvolvimento</h3>
+
 - Desenvolvimento da lógica em C.
 - Depois repassado para Assembly implementado utilizando o conjunto de instruções do MIPS e
 executado no simulador MARS.
